@@ -8,3 +8,4 @@
 |2023-06-17|정호찬|04. Generative Adversrial Nets|[paper](https://arxiv.org/abs/1406.2661)|
 |2023-08-12|정호찬|06. Prototypical networks for few-shot learning|[paper](https://arxiv.org/abs/1703.05175)|
 |2023-08-19|김홍태|07. Deep Q-Learning Network|[paper](https://arxiv.org/abs/1312.5602)|
+|2023-08-26|최은정|08. PureGAM Learning an Inherently Pure Additive Model|[paper](https://www.microsoft.com/en-us/research/uploads/prod/2022/07/pureGAM-camera-ready.pdf)|
